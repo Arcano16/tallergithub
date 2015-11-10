@@ -1,0 +1,10 @@
+git config --list (comandos, configuracion)
+
+git config --global user.name "nombre usuario"(entrar usuario)
+
+git config --global user.name correo@.homtail o live (entrar correo)
+
+mkdir git (crear carpeta)
+
+cd nombre carpeta (a trabajar)
+
